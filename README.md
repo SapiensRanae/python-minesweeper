@@ -3,6 +3,8 @@
 ## Overview
 This is a simple implementation of the classic Minesweeper game in Python 3.14. Players can uncover squares and avoid mines to win the game.
 
+**Warning: This project is available only in Ukrainian.**
+
 ## Features
 - Classic Minesweeper gameplay
 - Customizable board size and number of mines
