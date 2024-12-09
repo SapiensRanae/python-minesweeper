@@ -31,7 +31,7 @@ class minesweeper_class():
     window = tk.Tk()
     window.title('Сапер')
     
-    window.iconbitmap('icon.ico')
+    window.iconbitmap('./icon.ico')
 
     rows = 10
     colums = 10
