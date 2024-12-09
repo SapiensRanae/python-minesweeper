@@ -15,3 +15,24 @@ To get started with this project, clone the repository and install the required 
 git clone https://github.com/SapiensRanae/minesweeper-python.git
 cd minesweeper-python
 pip install -r tkinter datetime
+```
+Usage
+To run the Minesweeper game, execute the following command:
+
+```bash
+python minesweeper.py
+```
+How to Play
+The game starts with a grid of covered squares.
+
+Left-click a square to uncover it.
+
+Right-click a square to mark it as a mine.
+
+Uncover all the squares without mines to win the game.
+
+Contributing
+Contributions are welcome! Please open an issue or submit a pull request.
+
+License
+This project is licensed under the GNU3.0 License.
