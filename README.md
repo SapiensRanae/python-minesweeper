@@ -12,6 +12,6 @@ This is a simple implementation of the classic Minesweeper game in Python 3.14. 
 To get started with this project, clone the repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/yourusername/minesweeper-python.git
+git clone https://github.com/SapiensRanae/minesweeper-python.git
 cd minesweeper-python
 pip install -r tkinter datetime
