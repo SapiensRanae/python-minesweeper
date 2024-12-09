@@ -14,7 +14,7 @@ To get started with this project, clone the repository and install the required 
 ```bash
 git clone https://github.com/SapiensRanae/python-minesweeper.git
 cd python-minesweeper
-pip install -r tk
+pip install tk
 ```
 Usage
 To run the Minesweeper game, execute the following command:
