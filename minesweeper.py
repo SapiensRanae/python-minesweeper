@@ -29,7 +29,8 @@ class my_buttone(tk.Button):
 class minesweeper_class():
     window = tk.Tk()
     window.title('Сапер')
-    window.iconbitmap('icon.ico')
+    
+    window.iconphoto(False, tk.PhotoImage(file='Capture.png'))
 
     rows = 10
     colums = 10
@@ -189,7 +190,7 @@ class minesweeper_class():
         if self.Firs_click:
             self.set_mines(btn.number)
             self.count_m()
-            self.print_buttuns()
+            #self.print_buttuns()
             if self.time == False:
                 self.time = True
                 self.tick()
