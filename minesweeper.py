@@ -31,7 +31,8 @@ class minesweeper_class():
     window = tk.Tk()
     window.title('Сапер')
     
-    window.iconbitmap('./icon.ico')
+    img = PhotoImage(file='icon.xbm')
+    window.tk.call('wm', 'iconphoto', window._w, img)
 
     rows = 10
     colums = 10
