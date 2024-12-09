@@ -31,11 +31,7 @@ class minesweeper_class():
     window = tk.Tk()
     window.title('Сапер')
     
-    with open('./icon.gif', 'rb') as icon_gif:
-            icon_base64 = base64.b64encode(icon_gif.read())
-
-
-    window.iconbitmap(icon_base64)
+    window.iconbitmap('icon.ico')
 
     rows = 10
     colums = 10
