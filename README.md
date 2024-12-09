@@ -13,7 +13,7 @@ To get started with this project, clone the repository and install the required 
 
 ```bash
 git clone https://github.com/SapiensRanae/python-minesweeper.git
-cd minesweeper-python
+cd python-minesweeper
 pip install -r tkinter datetime
 ```
 Usage
