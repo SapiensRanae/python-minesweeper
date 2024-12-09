@@ -1,4 +1,5 @@
 import tkinter as tk
+import base64
 from tkinter import *
 from random import shuffle
 from tkinter.messagebox import *
