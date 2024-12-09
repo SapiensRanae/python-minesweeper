@@ -30,7 +30,7 @@ class minesweeper_class():
     window = tk.Tk()
     window.title('Сапер')
     
-    window.iconphoto(False, tk.PhotoImage(file='Capture.png'))
+    window.iconphoto(False, tk.PhotoImage(file='icon.ico'))
 
     rows = 10
     colums = 10
